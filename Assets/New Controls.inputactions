@@ -1,0 +1,12 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "60f3a8c5-0b2e-472f-8703-2aba76ad11fc",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
